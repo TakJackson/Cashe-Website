@@ -1,0 +1,22 @@
+body {
+    color: rgb(250, 250, 240);
+}
+
+a {
+    color: #f2f2f2;
+    text-decoration:none;
+}
+
+.navbar-brand {
+    font-size: 2em!important;
+}
+
+.jumbotron {
+    background-image: url("./img/jumbobg1.jpg")!important;
+    background-size: cover;
+  }
+
+.jumbotron {
+    background-image: url("./img/jumbobg1.jpg")!important;
+    background-size: cover;
+  }
